@@ -191,7 +191,7 @@ order by
 				tmp.Index = append(tmp.Index, model.KList{
 					Key:     model.ColumnsKeyPrimary,
 					Multi:   false,
-					KeyType: "primaryKey",
+					KeyType: "primary_key",
 				})
 			} else {
 				tmp.Index = append(tmp.Index, model.KList{

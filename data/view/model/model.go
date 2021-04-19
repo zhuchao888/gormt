@@ -129,7 +129,7 @@ func (m *_Model) genTableElement(cols []ColumnsInfo) (el []genstruct.GenElement)
 					switch v1.Key {
 					// case ColumnsKeyDefault:
 					case ColumnsKeyPrimary: // primary key.主键
-						tmp.AddTag(_tagGorm, "primaryKey")
+						tmp.AddTag(_tagGorm, "primary_key")
 						isPK = true
 					case ColumnsKeyUnique: // unique key.唯一索引
 						tmp.AddTag(_tagGorm, "unique")
