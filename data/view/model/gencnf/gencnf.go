@@ -8,8 +8,8 @@ import (
 
 	"gopkg.in/yaml.v3"
 
-	"github.com/xxjwxc/gormt/data/config"
-	"github.com/xxjwxc/gormt/data/view/model"
+	"github.com/zhuchao888/gormt/data/config"
+	"github.com/zhuchao888/gormt/data/view/model"
 	"github.com/xxjwxc/public/mylog"
 	"github.com/xxjwxc/public/tools"
 )

@@ -6,14 +6,14 @@ import (
 
 	"github.com/xxjwxc/public/mylog"
 
-	"github.com/xxjwxc/gormt/data/dlg"
-	"github.com/xxjwxc/gormt/data/view/model"
+	"github.com/zhuchao888/gormt/data/dlg"
+	"github.com/zhuchao888/gormt/data/view/model"
 
-	"github.com/xxjwxc/gormt/data/config"
+	"github.com/zhuchao888/gormt/data/config"
 
-	"github.com/xxjwxc/gormt/data/view/model/genmssql"
-	"github.com/xxjwxc/gormt/data/view/model/genmysql"
-	"github.com/xxjwxc/gormt/data/view/model/gensqlite"
+	"github.com/zhuchao888/gormt/data/view/model/genmssql"
+	"github.com/zhuchao888/gormt/data/view/model/genmysql"
+	"github.com/zhuchao888/gormt/data/view/model/gensqlite"
 	"github.com/xxjwxc/public/tools"
 )
 

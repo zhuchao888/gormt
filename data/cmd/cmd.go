@@ -6,9 +6,9 @@ import (
 
 	"github.com/xxjwxc/public/mylog"
 
-	"github.com/xxjwxc/gormt/data/view/gtools"
+	"github.com/zhuchao888/gormt/data/view/gtools"
 
-	"github.com/xxjwxc/gormt/data/config"
+	"github.com/zhuchao888/gormt/data/config"
 
 	"github.com/spf13/cobra"
 	"github.com/xxjwxc/public/mycobra"
